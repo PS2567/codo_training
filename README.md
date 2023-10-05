@@ -1,2 +1,4 @@
-# codo_training
-this repo demo is to work on the github eb console
+1.Learned about VCS
+2.Learned about DVCS
+3.Difference between VCS and DVCS..
+
